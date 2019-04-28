@@ -1,0 +1,1 @@
+Este es el programa del termómetro en PyGame, primer programa
